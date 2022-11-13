@@ -1,0 +1,33 @@
+body {
+    background: url(alert-bg.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+ 
+  .header {
+    padding: 80px;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(229, 237, 136);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  }
+  .btn1 {
+    background-color: rgb(131, 63, 208);
+    border: none;
+    border-radius: 20px;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 8px 15px;
+    display: inline;
+    margin-left: 50px;
+    /* text-align: center; */
+    text-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.5);
+  }
+  .btn1:hover {
+    background-color: brown;
+  }
+
+  .btn-width {
+    margin-left: 450px;
+  }
