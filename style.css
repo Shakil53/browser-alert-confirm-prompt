@@ -8,7 +8,7 @@ body {
     padding: 80px;
     font-size: 50px;
     text-align: center;
-    color: rgb(229, 237, 136);
+    color: rgb(237, 101, 43);
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
   }
   .btn1 {
@@ -23,6 +23,8 @@ body {
     margin-left: 50px;
     /* text-align: center; */
     text-shadow: 0.5px 0.5px 0.5px rgba(0, 0, 0, 0.5);
+    
+    
   }
   .btn1:hover {
     background-color: brown;
